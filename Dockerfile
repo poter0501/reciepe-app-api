@@ -1,5 +1,5 @@
 FROM python:3.9-alpine3.13
-LABEL maitainer="DOYOUNG"
+LABEL maintainer="DOYOUNG"
 
 ENV PYTHONUNBUFFERED 1
 
